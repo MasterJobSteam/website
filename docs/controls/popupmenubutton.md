@@ -73,7 +73,7 @@ Called when the user dismisses the popup menu without selecting an item.
 
 ## `PopupMenuItem` properties
 
-### `check`
+### `checked`
 
 If set to `True` or `False` a menu item draws a checkmark.
 
